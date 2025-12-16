@@ -1,0 +1,1 @@
+# AMCD---Modelagem-e-Previs-o-de-S-ries-Temporais-Financeiras
