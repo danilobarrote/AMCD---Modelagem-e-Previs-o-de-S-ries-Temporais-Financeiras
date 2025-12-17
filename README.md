@@ -11,3 +11,9 @@ diversos casos, as abordagens estatísticas tradicionais.
 
 O colab possui todo o código, com explicações e textos que
 justificam as métricas e as escolhas e conclusões dos modelos.
+
+Participantes:
+- Bernardo Siqueira
+- Danilo Barrote
+- João Pedro Guimarães
+- Vitor Lacerda
